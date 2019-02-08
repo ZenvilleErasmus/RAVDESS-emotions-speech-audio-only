@@ -1,0 +1,13 @@
+# ignore distribution / packaging
+venv/
+
+# ignore all files with the below extension
+*.log
+*.json
+*.csv
+*.txt
+*.DS_Store
+
+# do not ignore the following files
+!README.txt
+!requirements.txt
