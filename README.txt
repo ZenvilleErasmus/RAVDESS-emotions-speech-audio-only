@@ -10,7 +10,9 @@ Contact: zenville2010@gmail.com
 # 60 trials per actor x 24 actors = 1440.
 
 --------------------------------------------------------------------------------
-The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) is
+released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License, CC BY-NA-SC 4.0
 
 File naming convention
 
